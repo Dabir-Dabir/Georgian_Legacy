@@ -1,5 +1,5 @@
 # Georgian_Legacy
-Georgian Legacy input source for Mac OS.
+Georgian Legacy input source (Keyboard Layout) for Mac OS.
 
 ქართული ლეგასი კლავიატურა Mac OS-სთვის (მაკისთვის).
 
